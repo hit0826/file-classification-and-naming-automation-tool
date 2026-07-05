@@ -11,7 +11,11 @@ It also renames images, readable documents, and code files by looking at their c
 
 
 
-https://github.com/user-attachments/assets/f3769f1b-37b9-4b40-9eb8-2b69dbdc2a06
+https://github.com/user-attachments/assets/b2015bb4-aed8-4e9f-a79f-debcab053762
+
+
+
+
 
 
 
