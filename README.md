@@ -9,7 +9,10 @@ It also renames images, readable documents, and code files by looking at their c
 
 
 
-https://github.com/user-attachments/assets/0f1830b3-60f4-4014-9d1a-135831f69079
+
+
+https://github.com/user-attachments/assets/f3769f1b-37b9-4b40-9eb8-2b69dbdc2a06
+
 
 
 ## What It Does
