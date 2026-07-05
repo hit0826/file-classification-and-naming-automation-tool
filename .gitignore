@@ -1,0 +1,19 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.pyc
+*.pyo
+*.log
+*.tmp
+.file-organizer-logs/
+*_rename_history.json
+FileOrganizer - 복사본.exe
+FileOrganizer_Modern.exe
+file_organizer_gui_modern.py
+Build-Modern-Exe.bat
+github-upload/
+release/
+*.exe
+*.mp4
+FileOrganizer_Principle_Interactive_PPT.png
