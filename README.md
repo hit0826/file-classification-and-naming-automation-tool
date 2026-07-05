@@ -1,15 +1,16 @@
 
 
-https://github.com/user-attachments/assets/361ce2f1-0499-485a-9d32-12be03bad73b
-
-
-
 # File Classification and Naming Automation Tool
 
 This is a Windows local automation tool that organizes messy folders by file format, date, type, and name rules.  
 It also renames images, readable documents, and code files by looking at their contents, then can restore the original names from saved history.
 
 폴더 안에 뒤섞인 파일을 버튼 한 번으로 정리하고, 파일 내용까지 보고 이름을 바꾸는 자동화 도구입니다.
+
+
+
+https://github.com/user-attachments/assets/0f1830b3-60f4-4014-9d1a-135831f69079
+
 
 ## What It Does
 
