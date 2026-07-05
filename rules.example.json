@@ -1,0 +1,36 @@
+{
+  "recursive": false,
+  "include_hidden": false,
+  "leave_single_type_outliers": true,
+  "mode": "smart",
+  "date_source": "auto",
+  "ignore_globs": [
+    "~$*",
+    "*.tmp",
+    "desktop.ini"
+  ],
+  "ignore_extensions": [
+    ".part",
+    ".crdownload"
+  ],
+  "categories": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".heic"],
+    "PDF": [".pdf"],
+    "Documents": [".doc", ".docx", ".hwp", ".hwpx"],
+    "Text": [".txt", ".md", ".log"],
+    "Spreadsheets": [".xls", ".xlsx", ".csv"],
+    "Videos": [".mp4", ".mov", ".avi", ".mkv"],
+    "Archives": [".zip", ".7z", ".rar"],
+    "Installers": [".exe", ".msi"]
+  },
+  "format_groups": {
+    "한글": [".hwp", ".hwpx"],
+    "PDF": [".pdf"],
+    "Word": [".doc", ".docx"],
+    "Excel": [".xls", ".xlsx", ".xlsm"],
+    "JPG": [".jpg", ".jpeg"],
+    "PNG": [".png"],
+    "Python": [".py"],
+    "JavaScript": [".js", ".jsx"]
+  }
+}
